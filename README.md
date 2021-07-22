@@ -1,5 +1,5 @@
 [![image](https://img.shields.io/github/issues/Pro100Petovich/Service-for-publishing-texts)](https://shields.io/category/other)
-![image](https://badgen.net/pypi/python/black)
+[![image](https://badgen.net/pypi/python/black)](https://pypi.org/)
 # Сервис для публикации текстов Prog tech
 На сайте отображаются статьи на тему программирования и механики, которые пишут сами пользователи сайта. 
 
